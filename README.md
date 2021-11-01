@@ -1,6 +1,6 @@
 #### Hi 👋
 
-
+You can reach me at me@brandonwisnicki.com or on my [LinkedIn](https://www.linkedin.com/in/bwiz/).
 <!--
 **brandonwisnicki/brandonwisnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
