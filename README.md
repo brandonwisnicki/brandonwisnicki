@@ -8,6 +8,11 @@
 
 📠 You can reach me at me@brandonwisnicki.com or on my [LinkedIn](https://www.linkedin.com/in/bwiz/).
 
+🌐 Here are a few of the sites that I have built:
+- [Ontern](https://www.ontern.com) - React & Node.js
+- [Diodorus History](https://diodorushistory.com/) - Angular & Firebase
+- [EduCare](https://educarehealth.org/) & [EduCare Booster Eligiblity Quiz](https://educarehealth.org/resources/vaccine-quiz) - React
+
 <!--
 **brandonwisnicki/brandonwisnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
