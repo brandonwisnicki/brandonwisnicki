@@ -6,12 +6,12 @@
 
 ☀️ If I'm not programming, you'll find me playing with my dog Buffy🐶, jamming to Billy Joel, or getting incredibly sunburnt on a Florida beach. Preferably all 3 at once.
 
-📠 You can reach me at me@brandonwisnicki.com or on my [LinkedIn](https://www.linkedin.com/in/bwiz/).
-
 🌐 Here are a few of the sites that I have built:
 - [Ontern](https://www.ontern.com) - React & Node.js
 - [Diodorus History](https://diodorushistory.com/) - Angular & Firebase
 - [EduCare](https://educarehealth.org/) & [EduCare COVID Vaccine Eligiblity Quiz](https://educarehealth.org/resources/vaccine-quiz) - React
+
+📠 You can reach me at me@brandonwisnicki.com or on my [LinkedIn](https://www.linkedin.com/in/bwiz/).
 
 <!--
 **brandonwisnicki/brandonwisnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
