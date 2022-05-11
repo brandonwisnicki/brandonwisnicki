@@ -1,6 +1,6 @@
 #### 🌌 Hello there 
 
-🖥️ I'm currently a Second-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, blockchain, & security. 
+🖥️ I'm currently a Third-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, blockchain, & security. 
 
 🧭 I am currently working on [Ontern](https://www.ontern.com), leading the company's technical vision and development of our SaaS platform. 
 
