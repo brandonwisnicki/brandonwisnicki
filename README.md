@@ -2,7 +2,7 @@
 
 🖥️ I'm currently a Third-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, blockchain, & security. 
 
-🧭 I am currently working on [Ontern](https://www.ontern.com), leading the company's technical vision and development of our SaaS platform. 
+🧭 I am currently working at [Feelter](https://www.feelter.com) as a back-end software engineer.
 
 ☀️ If I'm not programming, you'll find me playing with my dog Buffy🐶, jamming to Billy Joel, or getting incredibly sunburnt on a Florida beach. Preferably all 3 at once.
 
