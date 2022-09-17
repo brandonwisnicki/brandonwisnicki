@@ -1,6 +1,6 @@
 #### 🌌 Hello there 
 
-🖥️ I'm currently a Third-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, blockchain, & security. 
+🖥️ I'm currently a Third-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, data analytics, & security. 
 
 🧭 I am currently working at [Feelter](https://www.feelter.com) as a back-end software engineer.
 
