@@ -1,8 +1,8 @@
 #### 🌌 Hello there 
 
-🖥️ I'm currently a Third-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, data analytics, & security. 
+🖥️ I'm currently a Fourth-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, data analytics, & security. 
 
-🧭 I am currently working at [Feelter](https://www.feelter.com) as a back-end software engineer.
+🧭 I am currently at [Palantir](https://www.palantir.com) as a software engineering intern.
 
 ☀️ If I'm not programming, you'll find me playing with my dog Buffy🐶, jamming to Billy Joel, or getting incredibly sunburnt on a Florida beach. Preferably all 3 at once.
 
