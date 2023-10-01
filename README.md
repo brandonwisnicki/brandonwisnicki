@@ -2,7 +2,7 @@
 
 🖥️ I'm currently a Fourth-Year studying Computer Science at the University of Pennsylvania. I'm interested in computer graphics, data analytics, & security. 
 
-🧭 I am currently at [Palantir](https://www.palantir.com) as a software engineering intern.
+🧭 I was previously at [Palantir](https://www.palantir.com) as a software engineering intern. I will be returning next year.
 
 ☀️ If I'm not programming, you'll find me playing with my dog Buffy🐶, jamming to Billy Joel, or getting incredibly sunburnt on a Florida beach. Preferably all 3 at once.
 
