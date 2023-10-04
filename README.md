@@ -6,10 +6,6 @@
 
 ☀️ If I'm not programming, you'll find me playing with my dog Buffy🐶, jamming to Billy Joel, or getting incredibly sunburnt on a Florida beach. Preferably all 3 at once.
 
-🌐 Here are a few of the sites that I have built:
-- [Ontern](https://www.ontern.com) - React & Node.js
-- [Diodorus History](https://diodorushistory.com/) - Angular & Firebase
-
 📠 You can reach me at me@brandonwisnicki.com or on my [LinkedIn](https://www.linkedin.com/in/bwiz/).
 
 <!--
